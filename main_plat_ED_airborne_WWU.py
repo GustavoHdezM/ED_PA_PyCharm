@@ -29,7 +29,7 @@ colors = prop_cycle.by_key()['color']
 
 M_D = 100  #  100 cm  
 
-Test_var = 1
+Test_var = 10
 print("Test variable:",Test_var)
 
 """---------------------------------------------------------------------------             
